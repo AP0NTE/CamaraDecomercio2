@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ventasccv"
+    }
+  },
+  "defaultProject": "ventasccv",
+  "cli": {
+    "analytics": "341d0c66-4119-4c9b-91de-8e4c0e782b30"
+  }
 }
